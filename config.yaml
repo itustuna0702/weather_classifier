@@ -1,0 +1,9 @@
+batch_size: 32
+learning_rate: 0.001
+epochs: 10
+num_classes: 11
+train_ratio: 0.7
+val_ratio: 0.15
+img_size: 224
+model_name: "resnet18"
+checkpoint_dir: "checkpoints"
