@@ -97,15 +97,6 @@ python main.py
 
 ---
 
-## 🧩 Mở rộng dễ dàng
-
-- Thêm mô hình khác → `models.py`
-- Đổi loss function → `losses.py`
-- Thêm tính năng: EarlyStopping, TensorBoard, GradCAM, Scheduler...
-- Viết API dự đoán → thêm `inference.py` hoặc REST API bằng FastAPI
-
----
-
 ## 🧠 Nhãn phân loại (11 class)
 
 - `dew`, `fogsmog`, `frost`, `glaze`, `hail`, `lightning`,  
